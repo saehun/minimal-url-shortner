@@ -8,6 +8,7 @@
     "sourceMap": true,
     "outDir": "dist",
     "declaration": true,
+    "skipLibCheck": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "lib": [ "dom", "esnext" ]
@@ -19,4 +20,3 @@
     "**/*.test.ts"
   ]
 }
-
