@@ -56,7 +56,7 @@
     "aws-lambda": "^1.0.6",
     "aws-lambda-fastify": "^1.7.1",
     "fastify": "^3.22.0",
-    "nanoid": "^3.1.29"
+    "nanoid": "^3.1.31"
   },
   "bin": {
     "short": "node dist/bin.js"
